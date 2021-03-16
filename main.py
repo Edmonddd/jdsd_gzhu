@@ -49,7 +49,7 @@ def login():
     time.sleep(0.5)
     request = requests.post(url1, headers=headers, data=data2, verify=False)
     print(request.json())
-    request = requests.post(url1, headers=headers, data=data4, verify=False)
+    request = requests.post(url1, headers=headers, data=data3, verify=False)
     print(request.json())
 
 
@@ -165,11 +165,11 @@ if __name__ == '__main__':
     #登录
     login()
     #签到
-    # checkin()
+    checkin()
     #每日阅读
-    # reading()
+    reading()
     #每日一练
-    # for i in range(0,3):
-        # pratice()
+    for i in range(0,3):
+        pratice()
     #随机匹配
-    # battle()
+    battle()
