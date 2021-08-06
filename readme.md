@@ -15,5 +15,5 @@
 需要修改为自己的user_key，自己抓包。
 
 ```
-user_key = 'CxCGyAJ7wqyJbZMB3hW7gk3MZ+yVXFQsgU7Ozrr44MNXIcDzAuTxSGZOSQEaoijZ'
+user_key = 'CxCGyAJ7wqyJbZMB3hW7gk3MZ+yVXFQsgU7Ozrr44MNXIcDzAuTxSjZ'
 ```
